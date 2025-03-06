@@ -1,5 +1,5 @@
 {
-  "name": "vinelab/neoeloquent",
+  "name": "tringuyenbtjsc/neoeloquent",
   "description": "Laravel wrapper for the Neo4j graph database REST interface",
   "keywords": [
     "neo4j",
@@ -17,6 +17,10 @@
     {
       "name": "Kinane Domloje",
       "email": "kinane@vinelab.com"
+    },
+    {
+      "name": "Tri Nguyen Duc",
+      "email": "tri.nguyen.duc@beetechjsc.com"
     }
   ],
   "require": {
